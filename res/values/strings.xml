@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, ServiceLifeCycleExampleActivity!</string>
     <string name="app_name">ServiceLifeCycleExample</string>
+    <string name="start_service">Start Service Lifecycle</string>
 
 </resources>
